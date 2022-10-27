@@ -1,4 +1,4 @@
-/* ! colori */
+/* ? colori */
 rosa: #E63975;
 
 
@@ -16,14 +16,19 @@ body{
     background-color: white;
     font-family: 'Fredoka', sans-serif;
 }
-
+h1{
+    font-size: 35px;
+    color: #E63975;
+    text-align: center;
+    margin: 2.5rem auto;
+}
+p{
+    font-size: 18px;
+    text-align: center;
+    margin-bottom: 3rem;
+}
 /* utils */
 .container{
     max-width: 1200px;
     margin: 0 auto;
-}
-h1{
-    color: #E63975;
-    text-align: center;
-    margin: 2.5rem auto;
 }
