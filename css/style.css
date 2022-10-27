@@ -4,10 +4,12 @@
     padding: 0;
     box-sizing: border-box;
 }
+
 /* Generics */
 body{
-
+    font-family: 'Fredoka', sans-serif;
 }
+
 /* utils */
 .container{
     max-width: 1200px;
