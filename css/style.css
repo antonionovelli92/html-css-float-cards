@@ -1,3 +1,9 @@
+/* ! colori */
+rosa: #E63975;
+
+
+
+
 /* Reset CSS */
 *{
     margin: 0;
@@ -7,6 +13,7 @@
 
 /* Generics */
 body{
+    background-color: white;
     font-family: 'Fredoka', sans-serif;
 }
 
@@ -14,4 +21,9 @@ body{
 .container{
     max-width: 1200px;
     margin: 0 auto;
+}
+h1{
+    color: #E63975;
+    text-align: center;
+    margin: 2.5rem auto;
 }
