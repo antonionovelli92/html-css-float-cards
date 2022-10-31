@@ -52,7 +52,7 @@ p{
 }
 .card{
     float: left;
-    width: (100%/3);
+    width: calc(100%/3);
     /* border: 2px dashed rgb(159, 26, 26); */
     text-align: left;
     
